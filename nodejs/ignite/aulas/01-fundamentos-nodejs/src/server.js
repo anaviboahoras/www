@@ -5,7 +5,7 @@
 // importar um módulo terceiro import fastify from fastify
 //import http from 'node:http(cripto,path,)
 
-//import http from 'node:http'
+import http from 'node:http'
 //import { useActionState } from 'react'
 //const server = http.createServer((request,response) => {
 // através do req consigo criar um usuário: email, informações
